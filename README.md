@@ -1,7 +1,6 @@
 <h1 align="center"> Привет! Я oqicess </h1>
 <p align="center">Хотелось бы <b>выжить</b> хотя бы.</p>
 
-<p align="center"><img src="https://myreadme.vercel.app/api/embed/oqicess?panels=userstatistics,toplanguages,commitgraph"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/oqicess/oqicess/output/github-contribution-grid-snake.svg"></p>
 
 ### :hammer_and_wrench: Языки и инструменты :
